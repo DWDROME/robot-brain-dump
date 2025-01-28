@@ -11,14 +11,14 @@
             "id": "dda9d8b384fee1c2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "迁移方案.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "迁移方案"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "迁移方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "迁移方案 的反向链接列表"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "迁移方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "迁移方案 的出链列表"
             }
           },
           {
@@ -136,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "迁移方案.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "迁移方案 的大纲"
             }
           },
           {
@@ -156,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dda9d8b384fee1c2",
+  "active": "43a52097c1aa4434",
   "lastOpenFiles": [
+    "Tech-Expansion/工具链/新建文件夹",
+    "Tech-Expansion/工具链",
+    "Tech-Expansion/新建文件夹",
+    "Tech-Expansion/编程语言",
+    "Tech-Expansion/嵌入式开发",
     "迁移方案.md",
     "Tech-Expansion",
     "新建文件夹",
@@ -178,11 +188,7 @@
     "ROS2-SLAM-Mastery/环境配置/新建文件夹",
     "ROS2-SLAM-Mastery/环境配置/zsh美化",
     "ROS2-SLAM-Mastery/环境配置/vscode",
-    "ROS2-SLAM-Mastery/环境配置/树莓派",
-    "ROS2-SLAM-Mastery/环境配置/gazebo",
-    "ROS2-SLAM-Mastery/环境配置/Ubuntu",
-    "ROS2-SLAM-Mastery/技术栈/ROS2/核心概念",
-    "git push操作.md",
+    "Tech-Expansion/工具链/git push操作.md",
     "README.md"
   ]
 }
