@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迁移方案.md",
+                "file": "ROS2-SLAM-Mastery/环境配置/Ubuntu/Ubuntu24.04初始化教程(包含基础优化、ros2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "迁移方案"
+              "title": "Ubuntu24.04初始化教程(包含基础优化、ros2)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "迁移方案.md",
+                "file": "ROS2-SLAM-Mastery/环境配置/Ubuntu/Ubuntu24.04初始化教程(包含基础优化、ros2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "迁移方案 的反向链接列表"
+              "title": "Ubuntu24.04初始化教程(包含基础优化、ros2) 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "迁移方案.md",
+                "file": "ROS2-SLAM-Mastery/环境配置/Ubuntu/Ubuntu24.04初始化教程(包含基础优化、ros2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "迁移方案 的出链列表"
+              "title": "Ubuntu24.04初始化教程(包含基础优化、ros2) 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "迁移方案.md"
+                "file": "ROS2-SLAM-Mastery/环境配置/Ubuntu/Ubuntu24.04初始化教程(包含基础优化、ros2).md"
               },
               "icon": "lucide-list",
-              "title": "迁移方案 的大纲"
+              "title": "Ubuntu24.04初始化教程(包含基础优化、ros2) 的大纲"
             }
           },
           {
@@ -176,6 +176,7 @@
   },
   "active": "dda9d8b384fee1c2",
   "lastOpenFiles": [
+    "迁移方案.md",
     "ROS2-SLAM-Mastery/环境配置/Ubuntu/Ubuntu24.04初始化教程(包含基础优化、ros2).md",
     "Life-Archives/成长计划",
     "Life-Archives/新建文件夹",
@@ -187,7 +188,6 @@
     "Tech-Expansion/编程语言/c++/新建文件夹",
     "Tech-Expansion/编程语言/c++/电影院选票系统",
     "Tech-Expansion/编程语言/python",
-    "迁移方案.md",
     "Tech-Expansion/工具链/git push操作.md",
     "README.md"
   ]
