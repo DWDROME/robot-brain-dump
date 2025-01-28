@@ -10,6 +10,9 @@
 - **💡 个人项目与实战经验**：涵盖自动导航小车、MOGI 仿真、小海龟写字等项目。
 - **🛠️ 工具链与嵌入式开发**：包括 MarkDown、MySQL、树莓派、zsh 美化等技术栈。
 
+目前我正在进行的完善项目有：
+- [DWDROME_MOG](https://github.com/DWDROME/MOGI)
+
 ---
 
 ## 📂 目录结构
@@ -112,7 +115,7 @@ robot-brain-dump
     git push origin new-feature
     ```
     
-    - 提交 PR，我们会 review 你的更改！
+    - 提交 PR，我会 review 你的更改！
 
 ---
 
