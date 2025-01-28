@@ -1,6 +1,3 @@
-以下是你的 GitHub 仓库 `robot-brain-dump` 的 README.md 文件，它包含了笔记的介绍、结构概览以及如何加入和贡献的方法。
-
----
 
 ### **📚 Robot Brain Dump - 知识库**
 
@@ -127,15 +124,3 @@ robot-brain-dump
 - **Email**：[ds_everything-ocean@outlook.com](mailto:ds_everything-ocean@outlook.com)
 
 希望这个仓库对你的学习有所帮助！🚀
-
----
-
-这个 README.md 详细介绍了你的知识库，涵盖：
-
-- **项目简介**
-- **目录结构**
-- **如何使用**
-- **如何贡献**
-- **联系方式**
-
-你可以直接复制粘贴到你的 `README.md` 文件，并根据需要调整！🚀
