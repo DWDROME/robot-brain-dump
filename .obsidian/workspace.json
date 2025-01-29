@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ROS2-SLAM-Mastery/学习规划/SLAM学习路径.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "SLAM学习路径"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 217.5
   },
   "right": {
     "id": "aeca849d570f5be9",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Project-Control/01-Task-Pool.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "01-Task-Pool.md 的反向链接列表"
             }
           },
           {
@@ -154,66 +154,93 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "a311d04be6192a5b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5b3a5a0a2a92e2b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
   "active": "dda9d8b384fee1c2",
   "lastOpenFiles": [
-    "ROS2-SLAM-Mastery/技术栈/ROS2/核心概念/ros动作详解/机器人/action_control_01.md",
-    "Tech-Expansion/编程语言/c++/高级算法以优化迷宫问题.md",
-    "Tech-Expansion/编程语言/c++/sring_operation.md",
-    "Tech-Expansion/编程语言/c++/状态压缩_位运算.md",
-    "Tech-Expansion/编程语言/c++/位运算在ros中的应用.md",
-    "Tech-Expansion/编程语言/c++/位运算高级应用.md",
-    "Tech-Expansion/编程语言/c++/位运算.md",
+    "ROS2-SLAM-Mastery/学习规划/寒假学习计划.md",
+    "ROS2-SLAM-Mastery/学习规划/SLAM学习路径.md",
+    "ROS2-SLAM-Mastery/学习规划/学习指南.md",
+    "ROS2-SLAM-Mastery/学习规划/opp的学习路径.md",
+    "ROS2-SLAM-Mastery/学习规划/ros_algorithm.md",
+    "ROS2-SLAM-Mastery/学习规划/gpts.md",
+    "ROS2-SLAM-Mastery/学习规划/大一上：13-14周 学习周记.md",
+    "Plans/本周计划.md",
+    "Plans/驱动文章.md",
+    "Plans/任务池.md",
+    "Life-Archives/投资研究/入门投资.md",
+    "Life-Archives/英语/墨墨定制化配置.md",
+    "Life-Archives/个人介绍.md",
+    "Life-Archives/英语",
+    "ROS2-SLAM-Mastery/项目实战/自动导航小车demo/自动导航小车demo.md",
+    "ROS2-SLAM-Mastery/环境配置/vscode/开发前检查清单.md",
+    "templater",
+    "Plans/项目追踪.md",
+    "ROS2-SLAM-Mastery/项目实战/MOGI自建ros模拟器/MOGI.md",
+    "Plans/看板.md",
+    "2024-08-20.md",
+    "环境配置/gazebo.md",
+    "2024-07-29.md",
+    "ROS2-SLAM-Mastery/环境配置/vscode/VSC环境.md",
+    "ROS2-SLAM-Mastery/环境配置/vscode/clang-format关键配置.md",
+    "ROS2-SLAM-Mastery/环境配置/vscode/依赖自动脚本_VSC.md",
+    "ROS2-SLAM-Mastery/环境配置/vscode/依赖半自动.md",
+    "ROS2-SLAM-Mastery/环境配置/vscode/一些插件.md",
+    "环境配置",
+    "Plans",
     "Tech-Expansion/工具链/MarkDown教程/latex使用指南.assets/截图 2024-11-19 15-35-48.png",
     "Tech-Expansion/工具链/MarkDown教程/latex使用指南.assets/截图 2024-11-19 15-33-45.png",
     "Tech-Expansion/工具链/MarkDown教程/latex使用指南.assets",
-    "Tech-Expansion/工具链/MarkDown教程/Mermaid.md",
-    "Tech-Expansion/工具链/MarkDown教程/latex使用指南.md",
-    "Tech-Expansion/工具链/MarkDown教程/jupyter转换为pdf.md",
     "Tech-Expansion/工具链/MarkDown教程",
-    "ROS2-SLAM-Mastery/技术栈/ROS2/数学基础/linear algebra/资料.md",
-    "ROS2-SLAM-Mastery/技术栈/ROS2/数学基础/linear algebra/07点积与叉积.md",
-    "ROS2-SLAM-Mastery/技术栈/ROS2/数学基础/linear algebra/06姿态的多种表示.md",
-    "ROS2-SLAM-Mastery/技术栈/ROS2/数学基础/linear algebra/05向量空间以及三个基本空间.md",
-    "ROS2-SLAM-Mastery/技术栈/ROS2/数学基础/linear algebra/04行列式及其几何意义.md",
-    "ROS2-SLAM-Mastery/技术栈/ROS2/数学基础/linear algebra/03矩阵运算与逆矩阵.md",
-    "ROS2-SLAM-Mastery/技术栈/ROS2/数学基础/linear algebra/02向量与矩阵方程.md",
-    "ROS2-SLAM-Mastery/技术栈/ROS2/数学基础/linear algebra/01线性方程组.md",
     "ROS2-SLAM-Mastery/技术栈/ROS2/数学基础/linear algebra",
     "ROS2-SLAM-Mastery/数学基础",
     "ROS2-SLAM-Mastery/新建文件夹",
-    "Tech-Expansion/工具链/mysql/基本教程/学习路径.md",
-    "Tech-Expansion/工具链/mysql/基本教程/shell基本操作.md",
-    "Tech-Expansion/工具链/mysql/基本教程/mysql的安装.md",
-    "Tech-Expansion/工具链/mysql/基本教程/mysql基本操作.md",
-    "Tech-Expansion/工具链/mysql/基本教程/mysql_shell的安装.md",
-    "Tech-Expansion/工具链/mysql/基本教程/client和shell.md",
     "Tech-Expansion/工具链/mysql/基本教程",
-    "Tech-Expansion/工具链/mysql",
-    "Tech-Expansion/工具链/注释方法.md",
-    "Tech-Expansion/工具链/翻墙攻略.md",
-    "ROS2-SLAM-Mastery/环境配置/树莓派/待处理/问题配置区",
-    "ROS2-SLAM-Mastery/环境配置/树莓派/待处理",
     "ROS2-SLAM-Mastery/环境配置/树莓派/vnc远程安装.assets/截图 2025-01-21 15-06-17.png",
     "ROS2-SLAM-Mastery/环境配置/树莓派/vnc远程安装.assets/截图 2025-01-21 14-30-46.png",
-    "ROS2-SLAM-Mastery/环境配置/树莓派/vnc远程安装.assets",
     "ROS2-SLAM-Mastery/环境配置/树莓派/cartographer建图.assets/截图 2025-01-21 13-01-42.png",
     "ROS2-SLAM-Mastery/环境配置/树莓派/cartographer建图.assets/截图 2025-01-21 12-22-39.png",
     "ROS2-SLAM-Mastery/技术栈/ROS2/硬件接口/slamtec A1M8/学习路径.assets/截图 2025-01-13 16-51-37.png",
