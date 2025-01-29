@@ -1,9 +1,10 @@
-以下是 **Git Push 的完整操作指南**，从基础配置到高级用法，结合你的使用场景（Ubuntu + VSCode + GitHub），提供可直接执行的命令和避坑建议：
+以下是 **Git Push 的完整操作指南**
 
 ---
 
-### **一、基础配置（首次使用Git）**
-#### 1. **设置全局用户信息**
+# **一、基础配置（首次使用Git）**
+1. **设置全局用户信息**
+
 ```bash
 # 配置用户名（与GitHub一致）
 git config --global user.name "YourGitHubUsername"
@@ -15,7 +16,8 @@ git config --global user.email "your.email@example.com"
 git config --list
 ```
 
-#### 2. **生成SSH密钥（免密推送）**
+2. **生成SSH密钥（免密推送）**
+
 ```bash
 # 生成密钥（默认路径 ~/.ssh/id_ed25519）
 ssh-keygen -t ed25519 -C "your.email@example.com"
@@ -25,7 +27,8 @@ cat ~/.ssh/id_ed25519.pub
 # 复制输出内容，粘贴到 GitHub → Settings → SSH and GPG keys → New SSH key
 ```
 
-#### 3. **测试SSH连接**
+3. **测试SSH连接**
+
 ```bash
 ssh -T git@github.com
 # 预期输出：Hi YourGitHubUsername! You've successfully authenticated...
@@ -33,7 +36,7 @@ ssh -T git@github.com
 
 ---
 
-### **二、Git Push 基础操作**
+# **二、Git Push 基础操作**
 #### 1. **初始化本地仓库**
 ```bash
 # 进入项目目录
@@ -279,7 +282,7 @@ git commit -m "Fix line endings"
    ```bash
    # 查看文件换行符类型
    file git\ push操作.md
-
+   
    # 转换文件换行符为 LF
    dos2unix git\ push操作.md
    ```

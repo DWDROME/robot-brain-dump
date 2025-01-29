@@ -1,10 +1,18 @@
-Mermaid 是一种非常实用的工具，用于使用简单的文本语法创建流程图、序列图、甘特图等各种图表。它的语法直观、简洁，尤其适合嵌入到文档中或用于代码内的说明。
+# Mermaid 基本用法
+
+> [!NOTE]
+>
+> Mermaid 方便在 markdown 中建图,
+>
+> 包含流程图、序列图、甘特图、状态图等各种图表
 
 
 
-["[Mermaidv11.4.0 Live Editor](https://mermaid.live/)"]
+**可视化网站**
 
-### 示例：Mermaid 基本语法
+- "[Mermaidv11.4.0 Live Editor](https://mermaid.live/)"
+
+## 示例：Mermaid 基本语法
 
 1. **流程图 (Flowchart)**
 
@@ -99,5 +107,3 @@ Mermaid 是一种非常实用的工具，用于使用简单的文本语法创建
 
    - `stateDiagram` 用于创建状态图。
    - `[*]` 表示开始或结束状态。
-
-Mermaid 语法易于理解，生成的图表可以嵌入到各种支持 Mermaid 的文档和应用中，非常适合编写技术文档或项目说明。

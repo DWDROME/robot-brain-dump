@@ -2,6 +2,8 @@
 
 # [LaTeX公式保姆级教程 (以及其中的各种细节)](https://www.bilibili.com/video/BV1no4y1U7At/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=70726c0c4e3073ec08e9566e626253af)
 
+> 收录了他人的教程代码
+
 
 
 # 希腊字母
