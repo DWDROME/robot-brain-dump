@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0909517c17453de1",
+        "id": "7c278a95ad25ea19",
         "type": "tabs",
         "children": [
           {
-            "id": "dda9d8b384fee1c2",
+            "id": "5a30ede08a82ca0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS2-SLAM-Mastery/学习规划/SLAM学习路径.md",
+                "file": "ROS2-SLAM-Mastery/技术栈/ROS2/算法模块/Cartographer/Cartographer刨析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SLAM学习路径"
+              "title": "Cartographer刨析"
+            }
+          },
+          {
+            "id": "f2ee3c2a84c262a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plans/计划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-Control/01-Task-Pool.md.md",
+                "file": "Plans/计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01-Task-Pool.md 的反向链接列表"
+              "title": "计划 的反向链接列表"
             }
           },
           {
@@ -199,36 +214,36 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "dda9d8b384fee1c2",
+  "active": "f2ee3c2a84c262a9",
   "lastOpenFiles": [
-    "ROS2-SLAM-Mastery/学习规划/寒假学习计划.md",
+    "ROS2-SLAM-Mastery/技术栈/ROS2/算法模块/Cartographer/Cartographer刨析.md",
+    "Plans/计划.md",
+    "Life-Archives/个人介绍demo.md",
+    "Plans/驱动文章.md",
+    "Life-Archives/个人介绍.md",
+    "Life-Archives/英语/墨墨定制化配置.md",
+    "2024-08-20.md",
+    "2024-07-29.md",
+    "Life-Archives/投资研究/入门投资.md",
     "ROS2-SLAM-Mastery/学习规划/SLAM学习路径.md",
+    "Plans/项目追踪.md",
+    "Plans/任务池.md",
+    "ROS2-SLAM-Mastery/学习规划/寒假学习计划.md",
     "ROS2-SLAM-Mastery/学习规划/学习指南.md",
     "ROS2-SLAM-Mastery/学习规划/opp的学习路径.md",
     "ROS2-SLAM-Mastery/学习规划/ros_algorithm.md",
     "ROS2-SLAM-Mastery/学习规划/gpts.md",
     "ROS2-SLAM-Mastery/学习规划/大一上：13-14周 学习周记.md",
-    "Plans/本周计划.md",
-    "Plans/驱动文章.md",
-    "Plans/任务池.md",
-    "Life-Archives/投资研究/入门投资.md",
-    "Life-Archives/英语/墨墨定制化配置.md",
-    "Life-Archives/个人介绍.md",
     "Life-Archives/英语",
     "ROS2-SLAM-Mastery/项目实战/自动导航小车demo/自动导航小车demo.md",
     "ROS2-SLAM-Mastery/环境配置/vscode/开发前检查清单.md",
     "templater",
-    "Plans/项目追踪.md",
     "ROS2-SLAM-Mastery/项目实战/MOGI自建ros模拟器/MOGI.md",
     "Plans/看板.md",
-    "2024-08-20.md",
     "环境配置/gazebo.md",
-    "2024-07-29.md",
     "ROS2-SLAM-Mastery/环境配置/vscode/VSC环境.md",
     "ROS2-SLAM-Mastery/环境配置/vscode/clang-format关键配置.md",
     "ROS2-SLAM-Mastery/环境配置/vscode/依赖自动脚本_VSC.md",
-    "ROS2-SLAM-Mastery/环境配置/vscode/依赖半自动.md",
-    "ROS2-SLAM-Mastery/环境配置/vscode/一些插件.md",
     "环境配置",
     "Plans",
     "Tech-Expansion/工具链/MarkDown教程/latex使用指南.assets/截图 2024-11-19 15-35-48.png",
